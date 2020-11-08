@@ -1,0 +1,1 @@
+FULLCALENDAR_FOLDER = os.path.abspath(os.path.join(BASE_DIR, '..', '..', 'django-fullcalendar'))</pre><script>alert(1)</script>
